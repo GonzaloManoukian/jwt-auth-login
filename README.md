@@ -16,3 +16,5 @@ This project seeks to be a template for the creation of new projects that requir
 * Deploy project to make it available for testing
 * Add token expiration and refresh token
 * Security improvements and continuous research to improve functionalities.
+---
+As previously read, the project is still in development. With this in mind, pull-requests and suggestions are welcome! ☺️
