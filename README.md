@@ -11,7 +11,9 @@ This project seeks to be a template for the creation of new projects that requir
 ---
 ### Road-map
 
+* Use TypeScript in API
 * Implement logout method
+* Add Tests
 * Create React app
 * Deploy project to make it available for testing
 * Add token expiration and refresh token
